@@ -1,0 +1,27 @@
+{
+    "name": "maize-api",
+    "version": "2.2.4",
+    "repository": "https://github.com/MinerGreggy/maize-api.git",
+    "bugs": "https://github.com/MinerGreggy/maize-api/issues",
+    "license": "GPL-3.0",
+    "dependencies": {
+        "json-bigint": "^1.0.0",
+        "ws": "^7.5.0"
+    },
+    "main": "index.js",
+    "engines": {
+        "node": ">=12.0.0"
+    },
+    "description": "maize-Api",
+    "homepage": "https://github.com/MinerGreggy/maize-api#readme",
+    "directories": {
+        "lib": "lib"
+    },
+    "keywords": [
+        "maize",
+        "blockchain",
+        "chiadashboard",
+        "maizedashboard"
+    ],
+    "author": "MinerGreggy"
+}
