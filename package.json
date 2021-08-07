@@ -1,6 +1,6 @@
 {
-    "name": "maize-api-dev",
-    "version": "2.2.4",
+    "name": "maize-api",
+    "version": "2.2.5",
     "repository": "https://github.com/MinerGreggy/maize-api.git",
     "bugs": "https://github.com/MinerGreggy/maize-api/issues",
     "license": "GPL-3.0",
